@@ -1,0 +1,88 @@
+# advapp
+#EXTM3U
+#EXTINF:-1,-----------ADV AddonApp-----------
+http://whatever.ts
+#EXTINF:-1,IN: Star Sports 1 HD
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/3532.ts
+#EXTINF:-1,IN: Star Sports 2 HD
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/3531.ts
+#EXTINF:-1,IN: Star Sports 3 HD
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/3530.ts
+#EXTINF:-1,IN: Star Sports 4 HD
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/3529.ts
+#EXTINF:-1,IN: TEN 1 HD
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/2378.ts
+#EXTINF:-1,IN: Warner Bros Movies
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/2627.ts
+#EXTINF:-1,IN: Star Vijay
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/2629.ts
+#EXTINF:-1,IN: Sun TV Tamil
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/2380.ts
+#EXTINF:-1,IN: Sun Music Tamil
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/2635.ts
+#EXTINF:-1,IN: KTV Tamil
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/2634.ts
+#EXTINF:-1,IN: Zee Tamil
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/2633.ts
+#EXTINF:-1,IN: Discovery
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/2130.ts
+#EXTINF:-1,IN: TEN ACTION
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/2148.ts
+#EXTINF:-1,IN: TEN SPORTS
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/1904.ts
+#EXTINF:-1,IN: Ten Cricket
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/2146.ts
+#EXTINF:-1,IN: Sony ESPN
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/2149.ts
+#EXTINF:-1,IN: Star Sports 4
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/1375.ts
+#EXTINF:-1,IN: Star Sports 3
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/1374.ts
+#EXTINF:-1,IN: Star Sports 2
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/1373.ts
+#EXTINF:-1,IN: Star Sports 1
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/1372.ts
+#EXTINF:-1,UK: SKY SPORTS F1 HDs True
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/2383.ts
+#EXTINF:-1,UK: SKY SPORTS F1 HD True
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/2384.ts
+#EXTINF:-1,UK: SKY SPORTS 2 HDs True
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/2391.ts
+#EXTINF:-1,UK: SKY SPORTS 2 HD True
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/2392.ts
+#EXTINF:-1,UK: SKY SPORTS 3 HDs True
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/2389.ts
+#EXTINF:-1,UK: SKY SPORTS 3 HD True
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/2390.ts
+#EXTINF:-1,UK: SKY SPORTS 4 HD True
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/2388.ts
+#EXTINF:-1,UK: SKY SPORTS 5 HDs True
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/2385.ts
+#EXTINF:-1,UK: SKY SPORTS 5 HD True
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/2386.ts
+#EXTINF:-1,UK: SKY SPORTS NEWS HDs True
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/2382.ts
+#EXTINF:-1,UK: Sky Sports News HD
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/2203.ts
+#EXTINF:-1,UK: Sky Sports 1
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/1922.ts
+#EXTINF:-1,UK: Sky sports 2
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/1923.ts
+#EXTINF:-1,UK: Sky Sports 3
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/1924.ts
+#EXTINF:-1,UK: Sky Sports 4
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/2093.ts
+#EXTINF:-1,UK: Sky Sports 5
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/2094.ts
+#EXTINF:-1,UK: Sky Sport F1 HD
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/1337.ts
+#EXTINF:-1,UK: Sky Sport 1 HD
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/1338.ts
+#EXTINF:-1,UK: Sky Sport 2 HD
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/1342.ts
+#EXTINF:-1,UK: Sky Sports 3 HD
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/1341.ts
+#EXTINF:-1,UK: Sky Sports 4 HD
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/1340.ts
+#EXTINF:-1,UK: Sky Sport 5 HD
+http://super1cam.ddns.net:8000/live/Twst/Bahaj/1339.ts
